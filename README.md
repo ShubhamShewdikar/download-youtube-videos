@@ -1,2 +1,2 @@
-# download-youtube-videos
-This project will help us to download youtube videos using python
+# download youtube videos using Python:arrow_down:
+This project is to download youtube videos using python librery #youtube_dl
